@@ -10,7 +10,7 @@
 4. loop
     for loop(must kow),while loop,do while(good to know)
 5. function
-    arrow function,function call,pass parameter,return from function
+    function call,pass parameter,return from function
 6.object
     3 ways of access property
         1.direct by property
